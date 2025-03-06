@@ -1,2 +1,6 @@
-public interface SwimBehaviour {
+// SwimBehavior.java
+
+public interface SwimBehavior 
+{
+    void swim();
 }
