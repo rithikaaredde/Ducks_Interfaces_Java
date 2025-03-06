@@ -1,2 +1,6 @@
-public interface FlyBehaviour {
+// FlyBehaviour.java
+
+public interface FlyBehaviour
+{
+    void fly();
 }
